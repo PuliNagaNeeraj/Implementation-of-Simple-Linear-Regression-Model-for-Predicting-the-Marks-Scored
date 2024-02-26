@@ -61,13 +61,21 @@ print("RMSE = ",rmse)
 ## Output:
 
 ![ML2 1](https://github.com/PuliNagaNeeraj/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/138849173/9e8a4983-31a0-415c-aff7-e1f09431db36)
+
 ![ML2 2](https://github.com/PuliNagaNeeraj/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/138849173/145455fd-55d4-4b2c-8005-09472c9061eb)
+
 ![ML2 3](https://github.com/PuliNagaNeeraj/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/138849173/f2475e7f-2512-45c3-942e-5f921a3194dc)
+
 ![ML2 3 1](https://github.com/PuliNagaNeeraj/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/138849173/9dd569d5-0592-496d-9d53-643c6632ea04)
+
 ![ML2 3 2](https://github.com/PuliNagaNeeraj/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/138849173/42cf2918-f3e4-4b16-801e-8a5912118e76)
+
 ![ML2 3 3](https://github.com/PuliNagaNeeraj/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/138849173/36a86afe-294b-42fe-b970-d40ad308679c)
+
 ![ML2 5](https://github.com/PuliNagaNeeraj/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/138849173/6fc68eaf-64d8-4252-a429-7de275628a20)
+
 ![ML2 6](https://github.com/PuliNagaNeeraj/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/138849173/d26ecd8b-f49b-4639-b8e6-620a2a20aa08)
+
 ![ML2 7](https://github.com/PuliNagaNeeraj/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/138849173/0aaa5593-c854-4bea-a163-9ac7616bd148)
 
 ## Result:
