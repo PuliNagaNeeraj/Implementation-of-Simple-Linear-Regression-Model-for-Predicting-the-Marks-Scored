@@ -21,7 +21,7 @@ To write a program to predict the marks scored by a student using the simple lin
 Program to implement the simple linear regression model for predicting the marks scored.
 Developed by : PULI NAGA NEERAJ
 RegisterNumber : 212223240130
-'''
+
 
 import pandas as pd
 import numpy as np
@@ -63,10 +63,15 @@ MAE = mean_absolute_error(Y_test,Y_pred)
 print('MAE = ',MAE)
 RMSE=np.sqrt(MSE)
 print("RMSE = ",RMSE)
-
+```
 ## Output:
 
 ![image](https://github.com/PuliNagaNeeraj/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/138849173/60f7555b-a3f1-44d5-89f0-0f7e22d58c18)
+![image](https://github.com/PuliNagaNeeraj/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/138849173/14aeb90c-bd3a-42e9-b0de-50dd8b91e38d)
+![image](https://github.com/PuliNagaNeeraj/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/138849173/b9881dda-4f52-437b-95c4-9b2a73181382)
+![image](https://github.com/PuliNagaNeeraj/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/138849173/dce4427d-8043-4b70-9f87-59bcce58c269)
+![image](https://github.com/PuliNagaNeeraj/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/138849173/38583901-2737-48f2-9b4c-0f7eabfbdcb6)
+![image](https://github.com/PuliNagaNeeraj/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/138849173/57c1230e-6539-45f3-9a95-12c103adb7c6)
 
 
 ## Result:
